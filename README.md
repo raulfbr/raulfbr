@@ -20,9 +20,9 @@ Veja meus portifólios de forma organizada.
 
 ## 💼 Experiência
 
-* **Cientista de Dados - Trend Data Service** (Fev 2024 - Presente)
+* **Data Scientist - TDS - Trend Data Service** (Fev 2024 - Presente)
 * **CEO - Matemática do Saber Brasil** (Ago 2020 – Jul 2023)
-* **Escrevente Técnico Judiciário - TJSP** (Nov 2013 - Presente)
+* **Escrevente/Estenotipista Técnico Judiciário - TJSP** (Nov 2013 - Presente)
 
 ---
 
