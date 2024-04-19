@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 [Portifólio](https://github.com/raulfbr/portifolio)
+##  📁 [Portifólio](https://github.com/raulfbr/portifolio)
 
 Veja meus portifólios de forma organizada.
 
