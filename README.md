@@ -1,5 +1,4 @@
 # Raul Rodrigues
-Data Scientist | Data Analyst | Python | Growth
 
 **Entusiasta por tecnologia e soluções data-driven**
 
@@ -48,6 +47,8 @@ Estatística Descritiva, Probabilidade, Projetos de Dados, Testes de Hipóteses,
 ---
 
 ## 📫 Contato
+Raul Rodrigues
+Data Scientist | Data Analyst | Python | Growth
 
 * **Email:** rfbr2@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/raulfbr/
