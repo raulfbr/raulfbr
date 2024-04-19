@@ -7,10 +7,9 @@ Data Scientist | Data Analyst | Python | Growth
 
 ## 🚀 Impacto e Resultados
 
-* **Crescimento de audiências:** 🚀 Aumento de 250 mil seguidores no Facebook e 50 mil no TikTok para "Matemática do Saber".
-* **Marketing data-driven:** 📈 Aumento de X% no ROI de campanhas de marketing com foco em métricas e KPIs.
 * **Análise de dados avançada:** 🔎  Identificação de tendências e insights para otimizar processos e tomada de decisões.
 * **Modelagem preditiva:** 🤖 Desenvolvimento de modelos de Machine Learning para prever comportamentos e impulsionar o crescimento.
+* **Crescimento de audiências:** 🚀 Aumento de 250 mil seguidores no Facebook e 50 mil no TikTok para "Matemática do Saber".
 
 ---
 
@@ -24,9 +23,9 @@ Data Scientist | Data Analyst | Python | Growth
 
 ## 🛠️ Habilidades
 
-* **Análise de Dados:** Python (Numpy, Pandas, etc.), SQL, Power BI
+* **Análise de Dados:** Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy, statsmodels, TensorFlow), SQL, Power BI
 * **Machine Learning:** Regressão, Árvores de Decisão, Random Forest, etc.
-* **Marketing Digital:** Growth Hacking, Web Analytics, SEO, SEM
+* **Marketing Digital:** Growth Hacking, Web Analytics, Crescimento viral
 * **Comunicação:** Storytelling, Apresentações
 * **Soft Skills:** Proatividade, Trabalho em Equipe, Resolução de Problemas
 
@@ -35,8 +34,10 @@ Data Scientist | Data Analyst | Python | Growth
 ## 📚 Educação
 
 * **Data Analytics & Data Science - Preditiva Analytics** (90% concluído)
+Estatística Descritiva, Probabilidade, Projetos de Dados, Testes de Hipóteses, Técnicas de modelagem, BI, Bancos de Dados, Dashboards, Excel, CRISP-DM, SQL, Python, Regressão Linear Múltipla, Regressão Logística, Diagnósticos de Modelos, Árvore de Decisão, Random Forest, Gradient Boosting, Clusterização, Esemble Redes Neurais Artificiais, Redução de dimensionalidade, Processamento de Linguagem Natural (NLP), Visão Computacional
 * **Licenciatura em Matemática e Estatística - Faculdade IBRA**
 * **MBA em Controladoria e Finanças - Universidade Cidade de São Paulo**
+* **Curso Superior de Tecnologia (CTS) - Universidade Cidade de São Paulo**
 
 ---
 
