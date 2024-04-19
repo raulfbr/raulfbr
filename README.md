@@ -1,4 +1,5 @@
-# Raul Rodrigues - Data Scientist 🚀
+# Raul Rodrigues
+Data Scientist | Data Analyst | Python | Growth
 
 **Transformando dados em insights e resultados.**
 
