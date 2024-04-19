@@ -1,6 +1,6 @@
 # Raul Rodrigues
 
-**Entusiasta por tecnologia e soluções data-driven**
+**_Entusiasta por tecnologia e soluções data-driven_**
 
 ---
 
