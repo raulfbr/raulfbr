@@ -39,7 +39,7 @@ Veja meus portifólios de forma organizada.
 ## 📚 Educação
 
 * **Data Analytics & Data Science - Preditiva Analytics** (90% concluído)
-Estatística Descritiva, Probabilidade, Projetos de Dados, Testes de Hipóteses, Técnicas de modelagem, BI, Bancos de Dados, Dashboards, Excel, CRISP-DM, SQL, Python, Regressão Linear Múltipla, Regressão Logística, Diagnósticos de Modelos, Árvore de Decisão, Random Forest, Gradient Boosting, Clusterização, Esemble Redes Neurais Artificiais, Redução de dimensionalidade, Processamento de Linguagem Natural (NLP), Visão Computacional
+- Estatística Descritiva, Probabilidade, Projetos de Dados, Testes de Hipóteses, Técnicas de modelagem, BI, Bancos de Dados, Dashboards, Excel, CRISP-DM, SQL, Python, Regressão Linear Múltipla, Regressão Logística, Diagnósticos de Modelos, Árvore de Decisão, Random Forest, Gradient Boosting, Clusterização, Esemble Redes Neurais Artificiais, Redução de dimensionalidade, Processamento de Linguagem Natural (NLP), Visão Computacional
 * **Licenciatura em Matemática e Estatística - Faculdade IBRA**
 * **MBA em Controladoria e Finanças - Universidade Cidade de São Paulo**
 * **Curso Superior de Tecnologia (CTS) - Universidade Cidade de São Paulo**
