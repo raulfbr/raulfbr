@@ -3,10 +3,47 @@
 **_Entusiasta por tecnologia e soluções data-driven_**
 
 ---
+# 📊 Portfólio de Ciência de Dados 📊
 
-##  📁 [Portifólio](https://github.com/raulfbr/portifolio)
+## 📌 [Projeto 01: Análise de Pesquisas de Opinião](https://github.com/raulfbr/portifolio/tree/main/001Projeto)
+Analisei dados de pesquisas para obter insights sobre o perfil dos participantes e suas respostas.
 
-Veja meus portifólios de forma organizada.
+### 🛠️ Ferramentas e Técnicas 📊
+
+| 🛠️ Ferramentas           | 📚 Técnicas                             |
+|--------------------------|-----------------------------------------|
+| Python                   | Junção de tabelas utilizando diagrama de relacionamento 📊 |
+| Pandas                   | Manipulação de dados                 |
+| KNIME                    | Transformação de dados 🔄               |
+|                          | Geração de insights 💡                 |
+
+---
+
+## 📌 [Projeto 02: Análise de Risco de Inadimplência em Fintech](https://github.com/raulfbr/portifolio/tree/main/002Projeto)
+Investiguei fatores de risco associados à inadimplência em empréstimos pessoais utilizando dados de clientes de uma fintech. Ao final, apliquei modelagens e comparei a melhor modelagem.
+
+### 🛠️ Ferramentas e Técnicas 📊
+
+| 🛠️ Ferramentas     | 📚 Técnicas                              |
+|---------------------|------------------------------------------|
+| Python              | Análise exploratória de dados (EDA) 📈    |
+| Pandas              | Visualização de dados 📊                 |
+| NumPy               | Valor de informação                      |
+| Matplotlib          | Análise de correlação/métricas 📈        |
+| Seaborn             | Machine Learning 🤖                      |
+| TensorFlow          | - Regressão Linear 📈                   |
+|                     | - Regressão Logística 📊                |
+|                     | - Random Forest 🌳                      |
+|                     | - Gradient Booster 🚀                   |
+|                     | - Redes neurais 🧠                      |
+
+---
+
+## 🚀 Projetos Futuros 🚀
+- [Insira nomes ou descrições de projetos]
+
+## 📂 [Portfólio](https://github.com/raulfbr/portifolio)
+Portfólios organizados em pastas 📂.
 
 ---
 
