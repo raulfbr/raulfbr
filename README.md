@@ -32,7 +32,7 @@ Investiguei fatores de risco associados à inadimplência em empréstimos pessoa
 | Matplotlib          | Análise de correlação/métricas 📈        |
 | Seaborn             | Machine Learning 🤖                      |
 | TensorFlow          | - Regressão Linear 📈                   |
-|                     | - Regressão Logística 📊                |
+| GridSearchCV        | - Regressão Logística 📊                |
 |                     | - Random Forest 🌳                      |
 |                     | - Gradient Booster 🚀                   |
 |                     | - Redes neurais 🧠                      |
