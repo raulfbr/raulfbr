@@ -1,4 +1,3 @@
-![Raul Rodrigues](https://avatars.githubusercontent.com/u/16632335?v=4)
 # Raul Rodrigues
 
 **_Entusiasta por tecnologia e soluções data-driven_**
