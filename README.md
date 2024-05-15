@@ -1,4 +1,4 @@
-![Raul Rodrigues](https://media.licdn.com/dms/image/D4D16AQFeVwMlXUv-OQ/profile-displaybackgroundimage-shrink_350_1400/0/1714783099968?e=1720051200&v=beta&t=I6AFuK4OFCP3A1iG_FtVuArO7ThwiYawJw4DZOsu-Dc)
+![Raul Rodrigues](https://avatars.githubusercontent.com/u/16632335?v=4)
 # Raul Rodrigues
 
 **_Entusiasta por tecnologia e soluções data-driven_**
